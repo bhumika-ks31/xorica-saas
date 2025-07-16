@@ -26,7 +26,7 @@
 7. 🚀 [More](#more)
 
 
-<a href="https://youtu.be/ukiGFmZ32YA?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -34,12 +34,6 @@ Xora is a Modern UI/UX SaaS website developed using React.js and Tailwind CSS th
 Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or
 inspiration for future modern applications or websites in general.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+**
-members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Vite
 - React.js
